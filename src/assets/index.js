@@ -20,16 +20,21 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import sql from "./tech/sql.png"
-import java from "./tech/java.png"
+import sql from "./tech/sql.png";
+import java from "./tech/java.png";
 
+import deepak from "./deepak.jpg";
+import golu from "./golu.jpg";
+import jp from "./jp.jpeg";
 
 import celebal from "./company/celebal.png";
 import internshala from "./company/internshala.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import pglife from "./pglife.png";
+import admindashboard from "./admindashboard.png";
+import weather from "./weather.png";
+import todo from "./todo.png";
+import pwu from "./pwu.png"
 
 export {
   logo,
@@ -57,7 +62,12 @@ export {
   java,
   celebal,
   internshala,
-  carrent,
-  jobit,
-  tripguide,
+  pglife,
+  admindashboard,
+  weather,
+  todo,
+  pwu,
+  deepak,
+  golu,
+  jp,
 };
